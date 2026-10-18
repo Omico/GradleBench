@@ -1,0 +1,737 @@
+measurement_id,boundary,line_number,raw_line
+formal/01-7.5.1/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/01-7.5.1/full/full,before,2,Pages free:                                   311264.
+formal/01-7.5.1/full/full,before,3,Pages active:                                 734320.
+formal/01-7.5.1/full/full,before,4,Pages inactive:                               737218.
+formal/01-7.5.1/full/full,before,5,Pages speculative:                              2779.
+formal/01-7.5.1/full/full,before,6,Pages throttled:                                   0.
+formal/01-7.5.1/full/full,before,7,Pages wired down:                             377722.
+formal/01-7.5.1/full/full,before,8,Pages purgeable:                                4193.
+formal/01-7.5.1/full/full,before,9,"""Translation faults"":                    15771766583."
+formal/01-7.5.1/full/full,before,10,Pages copy-on-write:                       959159402.
+formal/01-7.5.1/full/full,before,11,Pages zero filled:                       15433152899.
+formal/01-7.5.1/full/full,before,12,Pages reactivated:                        1216379492.
+formal/01-7.5.1/full/full,before,13,Pages purged:                              285663782.
+formal/01-7.5.1/full/full,before,14,File-backed pages:                            539225.
+formal/01-7.5.1/full/full,before,15,Anonymous pages:                              935092.
+formal/01-7.5.1/full/full,before,16,Pages stored in compressor:                  3021493.
+formal/01-7.5.1/full/full,before,17,Pages occupied by compressor:                1920362.
+formal/01-7.5.1/full/full,before,18,Decompressions:                            949978512.
+formal/01-7.5.1/full/full,before,19,Compressions:                             1095739039.
+formal/01-7.5.1/full/full,before,20,Pageins:                                   408624207.
+formal/01-7.5.1/full/full,before,21,Pageouts:                                      88577.
+formal/01-7.5.1/full/full,before,22,Swapins:                                     4118543.
+formal/01-7.5.1/full/full,before,23,Swapouts:                                    7979570.
+formal/01-7.5.1/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/01-7.5.1/full/full,after,2,Pages free:                                     9101.
+formal/01-7.5.1/full/full,after,3,Pages active:                                 818130.
+formal/01-7.5.1/full/full,after,4,Pages inactive:                               816097.
+formal/01-7.5.1/full/full,after,5,Pages speculative:                               622.
+formal/01-7.5.1/full/full,after,6,Pages throttled:                                   0.
+formal/01-7.5.1/full/full,after,7,Pages wired down:                             422190.
+formal/01-7.5.1/full/full,after,8,Pages purgeable:                                   2.
+formal/01-7.5.1/full/full,after,9,"""Translation faults"":                    15776076360."
+formal/01-7.5.1/full/full,after,10,Pages copy-on-write:                       959383029.
+formal/01-7.5.1/full/full,after,11,Pages zero filled:                       15437189884.
+formal/01-7.5.1/full/full,after,12,Pages reactivated:                        1217368398.
+formal/01-7.5.1/full/full,after,13,Pages purged:                              285864846.
+formal/01-7.5.1/full/full,after,14,File-backed pages:                            515082.
+formal/01-7.5.1/full/full,after,15,Anonymous pages:                             1119767.
+formal/01-7.5.1/full/full,after,16,Pages stored in compressor:                  3186087.
+formal/01-7.5.1/full/full,after,17,Pages occupied by compressor:                2017525.
+formal/01-7.5.1/full/full,after,18,Decompressions:                            950315346.
+formal/01-7.5.1/full/full,after,19,Compressions:                             1096280591.
+formal/01-7.5.1/full/full,after,20,Pageins:                                   408714359.
+formal/01-7.5.1/full/full,after,21,Pageouts:                                      88577.
+formal/01-7.5.1/full/full,after,22,Swapins:                                     4118587.
+formal/01-7.5.1/full/full,after,23,Swapouts:                                    7979570.
+formal/01-7.5.1/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/01-7.5.1/full/hot,before,2,Pages free:                                     9101.
+formal/01-7.5.1/full/hot,before,3,Pages active:                                 818130.
+formal/01-7.5.1/full/hot,before,4,Pages inactive:                               816097.
+formal/01-7.5.1/full/hot,before,5,Pages speculative:                               622.
+formal/01-7.5.1/full/hot,before,6,Pages throttled:                                   0.
+formal/01-7.5.1/full/hot,before,7,Pages wired down:                             422190.
+formal/01-7.5.1/full/hot,before,8,Pages purgeable:                                   2.
+formal/01-7.5.1/full/hot,before,9,"""Translation faults"":                    15776076360."
+formal/01-7.5.1/full/hot,before,10,Pages copy-on-write:                       959383029.
+formal/01-7.5.1/full/hot,before,11,Pages zero filled:                       15437189884.
+formal/01-7.5.1/full/hot,before,12,Pages reactivated:                        1217368398.
+formal/01-7.5.1/full/hot,before,13,Pages purged:                              285864846.
+formal/01-7.5.1/full/hot,before,14,File-backed pages:                            515082.
+formal/01-7.5.1/full/hot,before,15,Anonymous pages:                             1119767.
+formal/01-7.5.1/full/hot,before,16,Pages stored in compressor:                  3186087.
+formal/01-7.5.1/full/hot,before,17,Pages occupied by compressor:                2017525.
+formal/01-7.5.1/full/hot,before,18,Decompressions:                            950315346.
+formal/01-7.5.1/full/hot,before,19,Compressions:                             1096280591.
+formal/01-7.5.1/full/hot,before,20,Pageins:                                   408714359.
+formal/01-7.5.1/full/hot,before,21,Pageouts:                                      88577.
+formal/01-7.5.1/full/hot,before,22,Swapins:                                     4118587.
+formal/01-7.5.1/full/hot,before,23,Swapouts:                                    7979570.
+formal/01-7.5.1/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/01-7.5.1/full/hot,after,2,Pages free:                                    22423.
+formal/01-7.5.1/full/hot,after,3,Pages active:                                 789224.
+formal/01-7.5.1/full/hot,after,4,Pages inactive:                               782659.
+formal/01-7.5.1/full/hot,after,5,Pages speculative:                              4989.
+formal/01-7.5.1/full/hot,after,6,Pages throttled:                                   0.
+formal/01-7.5.1/full/hot,after,7,Pages wired down:                             404600.
+formal/01-7.5.1/full/hot,after,8,Pages purgeable:                               10261.
+formal/01-7.5.1/full/hot,after,9,"""Translation faults"":                    15777781958."
+formal/01-7.5.1/full/hot,after,10,Pages copy-on-write:                       959482269.
+formal/01-7.5.1/full/hot,after,11,Pages zero filled:                       15438431080.
+formal/01-7.5.1/full/hot,after,12,Pages reactivated:                        1218083931.
+formal/01-7.5.1/full/hot,after,13,Pages purged:                              285900805.
+formal/01-7.5.1/full/hot,after,14,File-backed pages:                            509443.
+formal/01-7.5.1/full/hot,after,15,Anonymous pages:                             1067429.
+formal/01-7.5.1/full/hot,after,16,Pages stored in compressor:                  3302344.
+formal/01-7.5.1/full/hot,after,17,Pages occupied by compressor:                2079770.
+formal/01-7.5.1/full/hot,after,18,Decompressions:                            950511148.
+formal/01-7.5.1/full/hot,after,19,Compressions:                             1096606521.
+formal/01-7.5.1/full/hot,after,20,Pageins:                                   408732326.
+formal/01-7.5.1/full/hot,after,21,Pageouts:                                      88578.
+formal/01-7.5.1/full/hot,after,22,Swapins:                                     4118595.
+formal/01-7.5.1/full/hot,after,23,Swapouts:                                    7979570.
+formal/02-7.6.6/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/02-7.6.6/full/full,before,2,Pages free:                                   318339.
+formal/02-7.6.6/full/full,before,3,Pages active:                                 629708.
+formal/02-7.6.6/full/full,before,4,Pages inactive:                               769014.
+formal/02-7.6.6/full/full,before,5,Pages speculative:                              2629.
+formal/02-7.6.6/full/full,before,6,Pages throttled:                                   0.
+formal/02-7.6.6/full/full,before,7,Pages wired down:                             410109.
+formal/02-7.6.6/full/full,before,8,Pages purgeable:                               13510.
+formal/02-7.6.6/full/full,before,9,"""Translation faults"":                    15778926794."
+formal/02-7.6.6/full/full,before,10,Pages copy-on-write:                       959520019.
+formal/02-7.6.6/full/full,before,11,Pages zero filled:                       15439083340.
+formal/02-7.6.6/full/full,before,12,Pages reactivated:                        1218171303.
+formal/02-7.6.6/full/full,before,13,Pages purged:                              285910736.
+formal/02-7.6.6/full/full,before,14,File-backed pages:                            514795.
+formal/02-7.6.6/full/full,before,15,Anonymous pages:                              886556.
+formal/02-7.6.6/full/full,before,16,Pages stored in compressor:                  3053323.
+formal/02-7.6.6/full/full,before,17,Pages occupied by compressor:                1953866.
+formal/02-7.6.6/full/full,before,18,Decompressions:                            950728959.
+formal/02-7.6.6/full/full,before,19,Compressions:                             1096650022.
+formal/02-7.6.6/full/full,before,20,Pageins:                                   408783742.
+formal/02-7.6.6/full/full,before,21,Pageouts:                                      88578.
+formal/02-7.6.6/full/full,before,22,Swapins:                                     4118603.
+formal/02-7.6.6/full/full,before,23,Swapouts:                                    7979570.
+formal/02-7.6.6/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/02-7.6.6/full/full,after,2,Pages free:                                     6018.
+formal/02-7.6.6/full/full,after,3,Pages active:                                 822859.
+formal/02-7.6.6/full/full,after,4,Pages inactive:                               821097.
+formal/02-7.6.6/full/full,after,5,Pages speculative:                               619.
+formal/02-7.6.6/full/full,after,6,Pages throttled:                                   0.
+formal/02-7.6.6/full/full,after,7,Pages wired down:                             437614.
+formal/02-7.6.6/full/full,after,8,Pages purgeable:                                   2.
+formal/02-7.6.6/full/full,after,9,"""Translation faults"":                    15782461304."
+formal/02-7.6.6/full/full,after,10,Pages copy-on-write:                       959694407.
+formal/02-7.6.6/full/full,after,11,Pages zero filled:                       15442458341.
+formal/02-7.6.6/full/full,after,12,Pages reactivated:                        1219021412.
+formal/02-7.6.6/full/full,after,13,Pages purged:                              286085558.
+formal/02-7.6.6/full/full,after,14,File-backed pages:                            500457.
+formal/02-7.6.6/full/full,after,15,Anonymous pages:                             1144118.
+formal/02-7.6.6/full/full,after,16,Pages stored in compressor:                  3145783.
+formal/02-7.6.6/full/full,after,17,Pages occupied by compressor:                1995458.
+formal/02-7.6.6/full/full,after,18,Decompressions:                            951013361.
+formal/02-7.6.6/full/full,after,19,Compressions:                             1097046381.
+formal/02-7.6.6/full/full,after,20,Pageins:                                   408827755.
+formal/02-7.6.6/full/full,after,21,Pageouts:                                      88620.
+formal/02-7.6.6/full/full,after,22,Swapins:                                     4118651.
+formal/02-7.6.6/full/full,after,23,Swapouts:                                    7979570.
+formal/02-7.6.6/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/02-7.6.6/full/hot,before,2,Pages free:                                     6018.
+formal/02-7.6.6/full/hot,before,3,Pages active:                                 822859.
+formal/02-7.6.6/full/hot,before,4,Pages inactive:                               821097.
+formal/02-7.6.6/full/hot,before,5,Pages speculative:                               619.
+formal/02-7.6.6/full/hot,before,6,Pages throttled:                                   0.
+formal/02-7.6.6/full/hot,before,7,Pages wired down:                             437614.
+formal/02-7.6.6/full/hot,before,8,Pages purgeable:                                   2.
+formal/02-7.6.6/full/hot,before,9,"""Translation faults"":                    15782461304."
+formal/02-7.6.6/full/hot,before,10,Pages copy-on-write:                       959694407.
+formal/02-7.6.6/full/hot,before,11,Pages zero filled:                       15442458341.
+formal/02-7.6.6/full/hot,before,12,Pages reactivated:                        1219021412.
+formal/02-7.6.6/full/hot,before,13,Pages purged:                              286085558.
+formal/02-7.6.6/full/hot,before,14,File-backed pages:                            500457.
+formal/02-7.6.6/full/hot,before,15,Anonymous pages:                             1144118.
+formal/02-7.6.6/full/hot,before,16,Pages stored in compressor:                  3145783.
+formal/02-7.6.6/full/hot,before,17,Pages occupied by compressor:                1995458.
+formal/02-7.6.6/full/hot,before,18,Decompressions:                            951013361.
+formal/02-7.6.6/full/hot,before,19,Compressions:                             1097046381.
+formal/02-7.6.6/full/hot,before,20,Pageins:                                   408827755.
+formal/02-7.6.6/full/hot,before,21,Pageouts:                                      88620.
+formal/02-7.6.6/full/hot,before,22,Swapins:                                     4118651.
+formal/02-7.6.6/full/hot,before,23,Swapouts:                                    7979570.
+formal/02-7.6.6/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/02-7.6.6/full/hot,after,2,Pages free:                                    16699.
+formal/02-7.6.6/full/hot,after,3,Pages active:                                 823937.
+formal/02-7.6.6/full/hot,after,4,Pages inactive:                               822493.
+formal/02-7.6.6/full/hot,after,5,Pages speculative:                               624.
+formal/02-7.6.6/full/hot,after,6,Pages throttled:                                   0.
+formal/02-7.6.6/full/hot,after,7,Pages wired down:                             392871.
+formal/02-7.6.6/full/hot,after,8,Pages purgeable:                                   2.
+formal/02-7.6.6/full/hot,after,9,"""Translation faults"":                    15783628937."
+formal/02-7.6.6/full/hot,after,10,Pages copy-on-write:                       959779864.
+formal/02-7.6.6/full/hot,after,11,Pages zero filled:                       15443266067.
+formal/02-7.6.6/full/hot,after,12,Pages reactivated:                        1219280747.
+formal/02-7.6.6/full/hot,after,13,Pages purged:                              286119247.
+formal/02-7.6.6/full/hot,after,14,File-backed pages:                            494524.
+formal/02-7.6.6/full/hot,after,15,Anonymous pages:                             1152530.
+formal/02-7.6.6/full/hot,after,16,Pages stored in compressor:                  3212109.
+formal/02-7.6.6/full/hot,after,17,Pages occupied by compressor:                2027041.
+formal/02-7.6.6/full/hot,after,18,Decompressions:                            951162233.
+formal/02-7.6.6/full/hot,after,19,Compressions:                             1097268368.
+formal/02-7.6.6/full/hot,after,20,Pageins:                                   408835255.
+formal/02-7.6.6/full/hot,after,21,Pageouts:                                      88620.
+formal/02-7.6.6/full/hot,after,22,Swapins:                                     4118695.
+formal/02-7.6.6/full/hot,after,23,Swapouts:                                    7979570.
+formal/03-7.6.6/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/03-7.6.6/full/full,before,2,Pages free:                                   311119.
+formal/03-7.6.6/full/full,before,3,Pages active:                                 717529.
+formal/03-7.6.6/full/full,before,4,Pages inactive:                               710819.
+formal/03-7.6.6/full/full,before,5,Pages speculative:                              5836.
+formal/03-7.6.6/full/full,before,6,Pages throttled:                                   0.
+formal/03-7.6.6/full/full,before,7,Pages wired down:                             434915.
+formal/03-7.6.6/full/full,before,8,Pages purgeable:                                6510.
+formal/03-7.6.6/full/full,before,9,"""Translation faults"":                    15784455375."
+formal/03-7.6.6/full/full,before,10,Pages copy-on-write:                       959817278.
+formal/03-7.6.6/full/full,before,11,Pages zero filled:                       15443780404.
+formal/03-7.6.6/full/full,before,12,Pages reactivated:                        1219285857.
+formal/03-7.6.6/full/full,before,13,Pages purged:                              286123654.
+formal/03-7.6.6/full/full,before,14,File-backed pages:                            512902.
+formal/03-7.6.6/full/full,before,15,Anonymous pages:                              921282.
+formal/03-7.6.6/full/full,before,16,Pages stored in compressor:                  2980395.
+formal/03-7.6.6/full/full,before,17,Pages occupied by compressor:                1903447.
+formal/03-7.6.6/full/full,before,18,Decompressions:                            951382751.
+formal/03-7.6.6/full/full,before,19,Compressions:                             1097268368.
+formal/03-7.6.6/full/full,before,20,Pageins:                                   408850772.
+formal/03-7.6.6/full/full,before,21,Pageouts:                                      88620.
+formal/03-7.6.6/full/full,before,22,Swapins:                                     4118703.
+formal/03-7.6.6/full/full,before,23,Swapouts:                                    7979570.
+formal/03-7.6.6/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/03-7.6.6/full/full,after,2,Pages free:                                    11983.
+formal/03-7.6.6/full/full,after,3,Pages active:                                 841964.
+formal/03-7.6.6/full/full,after,4,Pages inactive:                               840008.
+formal/03-7.6.6/full/full,after,5,Pages speculative:                               889.
+formal/03-7.6.6/full/full,after,6,Pages throttled:                                   0.
+formal/03-7.6.6/full/full,after,7,Pages wired down:                             394475.
+formal/03-7.6.6/full/full,after,8,Pages purgeable:                                8833.
+formal/03-7.6.6/full/full,after,9,"""Translation faults"":                    15789314161."
+formal/03-7.6.6/full/full,after,10,Pages copy-on-write:                       960050256.
+formal/03-7.6.6/full/full,after,11,Pages zero filled:                       15447539674.
+formal/03-7.6.6/full/full,after,12,Pages reactivated:                        1220408642.
+formal/03-7.6.6/full/full,after,13,Pages purged:                              286348399.
+formal/03-7.6.6/full/full,after,14,File-backed pages:                            523077.
+formal/03-7.6.6/full/full,after,15,Anonymous pages:                             1159784.
+formal/03-7.6.6/full/full,after,16,Pages stored in compressor:                  3174072.
+formal/03-7.6.6/full/full,after,17,Pages occupied by compressor:                1994346.
+formal/03-7.6.6/full/full,after,18,Decompressions:                            951955880.
+formal/03-7.6.6/full/full,after,19,Compressions:                             1098087929.
+formal/03-7.6.6/full/full,after,20,Pageins:                                   408932288.
+formal/03-7.6.6/full/full,after,21,Pageouts:                                      88621.
+formal/03-7.6.6/full/full,after,22,Swapins:                                     4118735.
+formal/03-7.6.6/full/full,after,23,Swapouts:                                    7979570.
+formal/03-7.6.6/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/03-7.6.6/full/hot,before,2,Pages free:                                    11983.
+formal/03-7.6.6/full/hot,before,3,Pages active:                                 841964.
+formal/03-7.6.6/full/hot,before,4,Pages inactive:                               840008.
+formal/03-7.6.6/full/hot,before,5,Pages speculative:                               889.
+formal/03-7.6.6/full/hot,before,6,Pages throttled:                                   0.
+formal/03-7.6.6/full/hot,before,7,Pages wired down:                             394475.
+formal/03-7.6.6/full/hot,before,8,Pages purgeable:                                8833.
+formal/03-7.6.6/full/hot,before,9,"""Translation faults"":                    15789314161."
+formal/03-7.6.6/full/hot,before,10,Pages copy-on-write:                       960050256.
+formal/03-7.6.6/full/hot,before,11,Pages zero filled:                       15447539674.
+formal/03-7.6.6/full/hot,before,12,Pages reactivated:                        1220408642.
+formal/03-7.6.6/full/hot,before,13,Pages purged:                              286348399.
+formal/03-7.6.6/full/hot,before,14,File-backed pages:                            523077.
+formal/03-7.6.6/full/hot,before,15,Anonymous pages:                             1159784.
+formal/03-7.6.6/full/hot,before,16,Pages stored in compressor:                  3174072.
+formal/03-7.6.6/full/hot,before,17,Pages occupied by compressor:                1994346.
+formal/03-7.6.6/full/hot,before,18,Decompressions:                            951955880.
+formal/03-7.6.6/full/hot,before,19,Compressions:                             1098087929.
+formal/03-7.6.6/full/hot,before,20,Pageins:                                   408932288.
+formal/03-7.6.6/full/hot,before,21,Pageouts:                                      88621.
+formal/03-7.6.6/full/hot,before,22,Swapins:                                     4118735.
+formal/03-7.6.6/full/hot,before,23,Swapouts:                                    7979570.
+formal/03-7.6.6/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/03-7.6.6/full/hot,after,2,Pages free:                                    30123.
+formal/03-7.6.6/full/hot,after,3,Pages active:                                 778228.
+formal/03-7.6.6/full/hot,after,4,Pages inactive:                               776169.
+formal/03-7.6.6/full/hot,after,5,Pages speculative:                               654.
+formal/03-7.6.6/full/hot,after,6,Pages throttled:                                   0.
+formal/03-7.6.6/full/hot,after,7,Pages wired down:                             439696.
+formal/03-7.6.6/full/hot,after,8,Pages purgeable:                                  28.
+formal/03-7.6.6/full/hot,after,9,"""Translation faults"":                    15792045462."
+formal/03-7.6.6/full/hot,after,10,Pages copy-on-write:                       960130843.
+formal/03-7.6.6/full/hot,after,11,Pages zero filled:                       15448732203.
+formal/03-7.6.6/full/hot,after,12,Pages reactivated:                        1221451192.
+formal/03-7.6.6/full/hot,after,13,Pages purged:                              286397259.
+formal/03-7.6.6/full/hot,after,14,File-backed pages:                            511630.
+formal/03-7.6.6/full/hot,after,15,Anonymous pages:                             1043421.
+formal/03-7.6.6/full/hot,after,16,Pages stored in compressor:                  3253069.
+formal/03-7.6.6/full/hot,after,17,Pages occupied by compressor:                2058795.
+formal/03-7.6.6/full/hot,after,18,Decompressions:                            952788336.
+formal/03-7.6.6/full/hot,after,19,Compressions:                             1099102778.
+formal/03-7.6.6/full/hot,after,20,Pageins:                                   408960328.
+formal/03-7.6.6/full/hot,after,21,Pageouts:                                      88625.
+formal/03-7.6.6/full/hot,after,22,Swapins:                                     4120397.
+formal/03-7.6.6/full/hot,after,23,Swapouts:                                    7979570.
+formal/04-7.5.1/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/04-7.5.1/full/full,before,2,Pages free:                                   267379.
+formal/04-7.5.1/full/full,before,3,Pages active:                                 721248.
+formal/04-7.5.1/full/full,before,4,Pages inactive:                               751108.
+formal/04-7.5.1/full/full,before,5,Pages speculative:                              5361.
+formal/04-7.5.1/full/full,before,6,Pages throttled:                                   0.
+formal/04-7.5.1/full/full,before,7,Pages wired down:                             414461.
+formal/04-7.5.1/full/full,before,8,Pages purgeable:                                8407.
+formal/04-7.5.1/full/full,before,9,"""Translation faults"":                    15793178868."
+formal/04-7.5.1/full/full,before,10,Pages copy-on-write:                       960190420.
+formal/04-7.5.1/full/full,before,11,Pages zero filled:                       15449296319.
+formal/04-7.5.1/full/full,before,12,Pages reactivated:                        1221451241.
+formal/04-7.5.1/full/full,before,13,Pages purged:                              286397259.
+formal/04-7.5.1/full/full,before,14,File-backed pages:                            540339.
+formal/04-7.5.1/full/full,before,15,Anonymous pages:                              937378.
+formal/04-7.5.1/full/full,before,16,Pages stored in compressor:                  2992174.
+formal/04-7.5.1/full/full,before,17,Pages occupied by compressor:                1924108.
+formal/04-7.5.1/full/full,before,18,Decompressions:                            952922984.
+formal/04-7.5.1/full/full,before,19,Compressions:                             1099102778.
+formal/04-7.5.1/full/full,before,20,Pageins:                                   408988642.
+formal/04-7.5.1/full/full,before,21,Pageouts:                                      88625.
+formal/04-7.5.1/full/full,before,22,Swapins:                                     4121452.
+formal/04-7.5.1/full/full,before,23,Swapouts:                                    7979570.
+formal/04-7.5.1/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/04-7.5.1/full/full,after,2,Pages free:                                    11578.
+formal/04-7.5.1/full/full,after,3,Pages active:                                 874869.
+formal/04-7.5.1/full/full,after,4,Pages inactive:                               871728.
+formal/04-7.5.1/full/full,after,5,Pages speculative:                               849.
+formal/04-7.5.1/full/full,after,6,Pages throttled:                                   0.
+formal/04-7.5.1/full/full,after,7,Pages wired down:                             429045.
+formal/04-7.5.1/full/full,after,8,Pages purgeable:                                9827.
+formal/04-7.5.1/full/full,after,9,"""Translation faults"":                    15799456135."
+formal/04-7.5.1/full/full,after,10,Pages copy-on-write:                       960470122.
+formal/04-7.5.1/full/full,after,11,Pages zero filled:                       15453383973.
+formal/04-7.5.1/full/full,after,12,Pages reactivated:                        1222850666.
+formal/04-7.5.1/full/full,after,13,Pages purged:                              286650221.
+formal/04-7.5.1/full/full,after,14,File-backed pages:                            529099.
+formal/04-7.5.1/full/full,after,15,Anonymous pages:                             1218347.
+formal/04-7.5.1/full/full,after,16,Pages stored in compressor:                  2974788.
+formal/04-7.5.1/full/full,after,17,Pages occupied by compressor:                1895596.
+formal/04-7.5.1/full/full,after,18,Decompressions:                            953793959.
+formal/04-7.5.1/full/full,after,19,Compressions:                             1100033063.
+formal/04-7.5.1/full/full,after,20,Pageins:                                   409109247.
+formal/04-7.5.1/full/full,after,21,Pageouts:                                      88625.
+formal/04-7.5.1/full/full,after,22,Swapins:                                     4121561.
+formal/04-7.5.1/full/full,after,23,Swapouts:                                    7979570.
+formal/04-7.5.1/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/04-7.5.1/full/hot,before,2,Pages free:                                    11578.
+formal/04-7.5.1/full/hot,before,3,Pages active:                                 874869.
+formal/04-7.5.1/full/hot,before,4,Pages inactive:                               871728.
+formal/04-7.5.1/full/hot,before,5,Pages speculative:                               849.
+formal/04-7.5.1/full/hot,before,6,Pages throttled:                                   0.
+formal/04-7.5.1/full/hot,before,7,Pages wired down:                             429045.
+formal/04-7.5.1/full/hot,before,8,Pages purgeable:                                9827.
+formal/04-7.5.1/full/hot,before,9,"""Translation faults"":                    15799456135."
+formal/04-7.5.1/full/hot,before,10,Pages copy-on-write:                       960470122.
+formal/04-7.5.1/full/hot,before,11,Pages zero filled:                       15453383973.
+formal/04-7.5.1/full/hot,before,12,Pages reactivated:                        1222850666.
+formal/04-7.5.1/full/hot,before,13,Pages purged:                              286650221.
+formal/04-7.5.1/full/hot,before,14,File-backed pages:                            529099.
+formal/04-7.5.1/full/hot,before,15,Anonymous pages:                             1218347.
+formal/04-7.5.1/full/hot,before,16,Pages stored in compressor:                  2974788.
+formal/04-7.5.1/full/hot,before,17,Pages occupied by compressor:                1895596.
+formal/04-7.5.1/full/hot,before,18,Decompressions:                            953793959.
+formal/04-7.5.1/full/hot,before,19,Compressions:                             1100033063.
+formal/04-7.5.1/full/hot,before,20,Pageins:                                   409109247.
+formal/04-7.5.1/full/hot,before,21,Pageouts:                                      88625.
+formal/04-7.5.1/full/hot,before,22,Swapins:                                     4121561.
+formal/04-7.5.1/full/hot,before,23,Swapouts:                                    7979570.
+formal/04-7.5.1/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/04-7.5.1/full/hot,after,2,Pages free:                                    11101.
+formal/04-7.5.1/full/hot,after,3,Pages active:                                 888996.
+formal/04-7.5.1/full/hot,after,4,Pages inactive:                               888519.
+formal/04-7.5.1/full/hot,after,5,Pages speculative:                               982.
+formal/04-7.5.1/full/hot,after,6,Pages throttled:                                   0.
+formal/04-7.5.1/full/hot,after,7,Pages wired down:                             408447.
+formal/04-7.5.1/full/hot,after,8,Pages purgeable:                                   2.
+formal/04-7.5.1/full/hot,after,9,"""Translation faults"":                    15801486921."
+formal/04-7.5.1/full/hot,after,10,Pages copy-on-write:                       960553378.
+formal/04-7.5.1/full/hot,after,11,Pages zero filled:                       15454751006.
+formal/04-7.5.1/full/hot,after,12,Pages reactivated:                        1223415239.
+formal/04-7.5.1/full/hot,after,13,Pages purged:                              286748389.
+formal/04-7.5.1/full/hot,after,14,File-backed pages:                            520962.
+formal/04-7.5.1/full/hot,after,15,Anonymous pages:                             1257535.
+formal/04-7.5.1/full/hot,after,16,Pages stored in compressor:                  2967296.
+formal/04-7.5.1/full/hot,after,17,Pages occupied by compressor:                1885620.
+formal/04-7.5.1/full/hot,after,18,Decompressions:                            954212237.
+formal/04-7.5.1/full/hot,after,19,Compressions:                             1100466608.
+formal/04-7.5.1/full/hot,after,20,Pageins:                                   409136473.
+formal/04-7.5.1/full/hot,after,21,Pageouts:                                      88627.
+formal/04-7.5.1/full/hot,after,22,Swapins:                                     4121577.
+formal/04-7.5.1/full/hot,after,23,Swapouts:                                    7979570.
+formal/05-7.5.1/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/05-7.5.1/full/full,before,2,Pages free:                                   348867.
+formal/05-7.5.1/full/full,before,3,Pages active:                                 628443.
+formal/05-7.5.1/full/full,before,4,Pages inactive:                               847722.
+formal/05-7.5.1/full/full,before,5,Pages speculative:                               862.
+formal/05-7.5.1/full/full,before,6,Pages throttled:                                   0.
+formal/05-7.5.1/full/full,before,7,Pages wired down:                             411996.
+formal/05-7.5.1/full/full,before,8,Pages purgeable:                               10583.
+formal/05-7.5.1/full/full,before,9,"""Translation faults"":                    15801974560."
+formal/05-7.5.1/full/full,before,10,Pages copy-on-write:                       960571429.
+formal/05-7.5.1/full/full,before,11,Pages zero filled:                       15455248775.
+formal/05-7.5.1/full/full,before,12,Pages reactivated:                        1223457814.
+formal/05-7.5.1/full/full,before,13,Pages purged:                              286748814.
+formal/05-7.5.1/full/full,before,14,File-backed pages:                            529634.
+formal/05-7.5.1/full/full,before,15,Anonymous pages:                              947393.
+formal/05-7.5.1/full/full,before,16,Pages stored in compressor:                  2882765.
+formal/05-7.5.1/full/full,before,17,Pages occupied by compressor:                1845775.
+formal/05-7.5.1/full/full,before,18,Decompressions:                            954260346.
+formal/05-7.5.1/full/full,before,19,Compressions:                             1100476431.
+formal/05-7.5.1/full/full,before,20,Pageins:                                   409141383.
+formal/05-7.5.1/full/full,before,21,Pageouts:                                      88627.
+formal/05-7.5.1/full/full,before,22,Swapins:                                     4121581.
+formal/05-7.5.1/full/full,before,23,Swapouts:                                    7979570.
+formal/05-7.5.1/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/05-7.5.1/full/full,after,2,Pages free:                                    13951.
+formal/05-7.5.1/full/full,after,3,Pages active:                                 881598.
+formal/05-7.5.1/full/full,after,4,Pages inactive:                               879720.
+formal/05-7.5.1/full/full,after,5,Pages speculative:                               653.
+formal/05-7.5.1/full/full,after,6,Pages throttled:                                   0.
+formal/05-7.5.1/full/full,after,7,Pages wired down:                             419272.
+formal/05-7.5.1/full/full,after,8,Pages purgeable:                                4039.
+formal/05-7.5.1/full/full,after,9,"""Translation faults"":                    15807855847."
+formal/05-7.5.1/full/full,after,10,Pages copy-on-write:                       960979466.
+formal/05-7.5.1/full/full,after,11,Pages zero filled:                       15459758413.
+formal/05-7.5.1/full/full,after,12,Pages reactivated:                        1224421200.
+formal/05-7.5.1/full/full,after,13,Pages purged:                              286967612.
+formal/05-7.5.1/full/full,after,14,File-backed pages:                            532367.
+formal/05-7.5.1/full/full,after,15,Anonymous pages:                             1229604.
+formal/05-7.5.1/full/full,after,16,Pages stored in compressor:                  2936305.
+formal/05-7.5.1/full/full,after,17,Pages occupied by compressor:                1888471.
+formal/05-7.5.1/full/full,after,18,Decompressions:                            954601668.
+formal/05-7.5.1/full/full,after,19,Compressions:                             1100887888.
+formal/05-7.5.1/full/full,after,20,Pageins:                                   409283028.
+formal/05-7.5.1/full/full,after,21,Pageouts:                                      88627.
+formal/05-7.5.1/full/full,after,22,Swapins:                                     4121629.
+formal/05-7.5.1/full/full,after,23,Swapouts:                                    7979570.
+formal/05-7.5.1/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/05-7.5.1/full/hot,before,2,Pages free:                                    13951.
+formal/05-7.5.1/full/hot,before,3,Pages active:                                 881598.
+formal/05-7.5.1/full/hot,before,4,Pages inactive:                               879720.
+formal/05-7.5.1/full/hot,before,5,Pages speculative:                               653.
+formal/05-7.5.1/full/hot,before,6,Pages throttled:                                   0.
+formal/05-7.5.1/full/hot,before,7,Pages wired down:                             419272.
+formal/05-7.5.1/full/hot,before,8,Pages purgeable:                                4039.
+formal/05-7.5.1/full/hot,before,9,"""Translation faults"":                    15807855847."
+formal/05-7.5.1/full/hot,before,10,Pages copy-on-write:                       960979466.
+formal/05-7.5.1/full/hot,before,11,Pages zero filled:                       15459758413.
+formal/05-7.5.1/full/hot,before,12,Pages reactivated:                        1224421200.
+formal/05-7.5.1/full/hot,before,13,Pages purged:                              286967612.
+formal/05-7.5.1/full/hot,before,14,File-backed pages:                            532367.
+formal/05-7.5.1/full/hot,before,15,Anonymous pages:                             1229604.
+formal/05-7.5.1/full/hot,before,16,Pages stored in compressor:                  2936305.
+formal/05-7.5.1/full/hot,before,17,Pages occupied by compressor:                1888471.
+formal/05-7.5.1/full/hot,before,18,Decompressions:                            954601668.
+formal/05-7.5.1/full/hot,before,19,Compressions:                             1100887888.
+formal/05-7.5.1/full/hot,before,20,Pageins:                                   409283028.
+formal/05-7.5.1/full/hot,before,21,Pageouts:                                      88627.
+formal/05-7.5.1/full/hot,before,22,Swapins:                                     4121629.
+formal/05-7.5.1/full/hot,before,23,Swapouts:                                    7979570.
+formal/05-7.5.1/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/05-7.5.1/full/hot,after,2,Pages free:                                    14157.
+formal/05-7.5.1/full/hot,after,3,Pages active:                                 870166.
+formal/05-7.5.1/full/hot,after,4,Pages inactive:                               871963.
+formal/05-7.5.1/full/hot,after,5,Pages speculative:                              1344.
+formal/05-7.5.1/full/hot,after,6,Pages throttled:                                   0.
+formal/05-7.5.1/full/hot,after,7,Pages wired down:                             413850.
+formal/05-7.5.1/full/hot,after,8,Pages purgeable:                                1863.
+formal/05-7.5.1/full/hot,after,9,"""Translation faults"":                    15809304145."
+formal/05-7.5.1/full/hot,after,10,Pages copy-on-write:                       961052058.
+formal/05-7.5.1/full/hot,after,11,Pages zero filled:                       15461354026.
+formal/05-7.5.1/full/hot,after,12,Pages reactivated:                        1224679567.
+formal/05-7.5.1/full/hot,after,13,Pages purged:                              287002677.
+formal/05-7.5.1/full/hot,after,14,File-backed pages:                            527229.
+formal/05-7.5.1/full/hot,after,15,Anonymous pages:                             1216244.
+formal/05-7.5.1/full/hot,after,16,Pages stored in compressor:                  3017106.
+formal/05-7.5.1/full/hot,after,17,Pages occupied by compressor:                1912185.
+formal/05-7.5.1/full/hot,after,18,Decompressions:                            954723365.
+formal/05-7.5.1/full/hot,after,19,Compressions:                             1101104405.
+formal/05-7.5.1/full/hot,after,20,Pageins:                                   409298590.
+formal/05-7.5.1/full/hot,after,21,Pageouts:                                      88627.
+formal/05-7.5.1/full/hot,after,22,Swapins:                                     4121637.
+formal/05-7.5.1/full/hot,after,23,Swapouts:                                    7979570.
+formal/06-7.6.6/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/06-7.6.6/full/full,before,2,Pages free:                                   355159.
+formal/06-7.6.6/full/full,before,3,Pages active:                                 698805.
+formal/06-7.6.6/full/full,before,4,Pages inactive:                               773730.
+formal/06-7.6.6/full/full,before,5,Pages speculative:                               590.
+formal/06-7.6.6/full/full,before,6,Pages throttled:                                   0.
+formal/06-7.6.6/full/full,before,7,Pages wired down:                             419353.
+formal/06-7.6.6/full/full,before,8,Pages purgeable:                               15223.
+formal/06-7.6.6/full/full,before,9,"""Translation faults"":                    15809849379."
+formal/06-7.6.6/full/full,before,10,Pages copy-on-write:                       961059981.
+formal/06-7.6.6/full/full,before,11,Pages zero filled:                       15461683272.
+formal/06-7.6.6/full/full,before,12,Pages reactivated:                        1224679583.
+formal/06-7.6.6/full/full,before,13,Pages purged:                              287003284.
+formal/06-7.6.6/full/full,before,14,File-backed pages:                            529038.
+formal/06-7.6.6/full/full,before,15,Anonymous pages:                              944087.
+formal/06-7.6.6/full/full,before,16,Pages stored in compressor:                  2836887.
+formal/06-7.6.6/full/full,before,17,Pages occupied by compressor:                1836028.
+formal/06-7.6.6/full/full,before,18,Decompressions:                            954895624.
+formal/06-7.6.6/full/full,before,19,Compressions:                             1101104405.
+formal/06-7.6.6/full/full,before,20,Pageins:                                   409300019.
+formal/06-7.6.6/full/full,before,21,Pageouts:                                      88627.
+formal/06-7.6.6/full/full,before,22,Swapins:                                     4121645.
+formal/06-7.6.6/full/full,before,23,Swapouts:                                    7979570.
+formal/06-7.6.6/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/06-7.6.6/full/full,after,2,Pages free:                                    11433.
+formal/06-7.6.6/full/full,after,3,Pages active:                                 868912.
+formal/06-7.6.6/full/full,after,4,Pages inactive:                               863069.
+formal/06-7.6.6/full/full,after,5,Pages speculative:                              3774.
+formal/06-7.6.6/full/full,after,6,Pages throttled:                                   0.
+formal/06-7.6.6/full/full,after,7,Pages wired down:                             394694.
+formal/06-7.6.6/full/full,after,8,Pages purgeable:                                8936.
+formal/06-7.6.6/full/full,after,9,"""Translation faults"":                    15815545599."
+formal/06-7.6.6/full/full,after,10,Pages copy-on-write:                       961401605.
+formal/06-7.6.6/full/full,after,11,Pages zero filled:                       15465371628.
+formal/06-7.6.6/full/full,after,12,Pages reactivated:                        1225924338.
+formal/06-7.6.6/full/full,after,13,Pages purged:                              287313090.
+formal/06-7.6.6/full/full,after,14,File-backed pages:                            530741.
+formal/06-7.6.6/full/full,after,15,Anonymous pages:                             1205014.
+formal/06-7.6.6/full/full,after,16,Pages stored in compressor:                  3059994.
+formal/06-7.6.6/full/full,after,17,Pages occupied by compressor:                1941783.
+formal/06-7.6.6/full/full,after,18,Decompressions:                            955462809.
+formal/06-7.6.6/full/full,after,19,Compressions:                             1101934324.
+formal/06-7.6.6/full/full,after,20,Pageins:                                   409391275.
+formal/06-7.6.6/full/full,after,21,Pageouts:                                      88629.
+formal/06-7.6.6/full/full,after,22,Swapins:                                     4121833.
+formal/06-7.6.6/full/full,after,23,Swapouts:                                    7979570.
+formal/06-7.6.6/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/06-7.6.6/full/hot,before,2,Pages free:                                    11433.
+formal/06-7.6.6/full/hot,before,3,Pages active:                                 868912.
+formal/06-7.6.6/full/hot,before,4,Pages inactive:                               863069.
+formal/06-7.6.6/full/hot,before,5,Pages speculative:                              3774.
+formal/06-7.6.6/full/hot,before,6,Pages throttled:                                   0.
+formal/06-7.6.6/full/hot,before,7,Pages wired down:                             394694.
+formal/06-7.6.6/full/hot,before,8,Pages purgeable:                                8936.
+formal/06-7.6.6/full/hot,before,9,"""Translation faults"":                    15815545599."
+formal/06-7.6.6/full/hot,before,10,Pages copy-on-write:                       961401605.
+formal/06-7.6.6/full/hot,before,11,Pages zero filled:                       15465371628.
+formal/06-7.6.6/full/hot,before,12,Pages reactivated:                        1225924338.
+formal/06-7.6.6/full/hot,before,13,Pages purged:                              287313090.
+formal/06-7.6.6/full/hot,before,14,File-backed pages:                            530741.
+formal/06-7.6.6/full/hot,before,15,Anonymous pages:                             1205014.
+formal/06-7.6.6/full/hot,before,16,Pages stored in compressor:                  3059994.
+formal/06-7.6.6/full/hot,before,17,Pages occupied by compressor:                1941783.
+formal/06-7.6.6/full/hot,before,18,Decompressions:                            955462809.
+formal/06-7.6.6/full/hot,before,19,Compressions:                             1101934324.
+formal/06-7.6.6/full/hot,before,20,Pageins:                                   409391275.
+formal/06-7.6.6/full/hot,before,21,Pageouts:                                      88629.
+formal/06-7.6.6/full/hot,before,22,Swapins:                                     4121833.
+formal/06-7.6.6/full/hot,before,23,Swapouts:                                    7979570.
+formal/06-7.6.6/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/06-7.6.6/full/hot,after,2,Pages free:                                     6859.
+formal/06-7.6.6/full/hot,after,3,Pages active:                                 838433.
+formal/06-7.6.6/full/hot,after,4,Pages inactive:                               837143.
+formal/06-7.6.6/full/hot,after,5,Pages speculative:                               499.
+formal/06-7.6.6/full/hot,after,6,Pages throttled:                                   0.
+formal/06-7.6.6/full/hot,after,7,Pages wired down:                             414376.
+formal/06-7.6.6/full/hot,after,8,Pages purgeable:                                1026.
+formal/06-7.6.6/full/hot,after,9,"""Translation faults"":                    15816579792."
+formal/06-7.6.6/full/hot,after,10,Pages copy-on-write:                       961455864.
+formal/06-7.6.6/full/hot,after,11,Pages zero filled:                       15466162084.
+formal/06-7.6.6/full/hot,after,12,Pages reactivated:                        1226211685.
+formal/06-7.6.6/full/hot,after,13,Pages purged:                              287356042.
+formal/06-7.6.6/full/hot,after,14,File-backed pages:                            515508.
+formal/06-7.6.6/full/hot,after,15,Anonymous pages:                             1160567.
+formal/06-7.6.6/full/hot,after,16,Pages stored in compressor:                  3143090.
+formal/06-7.6.6/full/hot,after,17,Pages occupied by compressor:                1986355.
+formal/06-7.6.6/full/hot,after,18,Decompressions:                            955605620.
+formal/06-7.6.6/full/hot,after,19,Compressions:                             1102158859.
+formal/06-7.6.6/full/hot,after,20,Pageins:                                   409395219.
+formal/06-7.6.6/full/hot,after,21,Pageouts:                                      88629.
+formal/06-7.6.6/full/hot,after,22,Swapins:                                     4121837.
+formal/06-7.6.6/full/hot,after,23,Swapouts:                                    7979570.
+formal/07-7.6.6/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/07-7.6.6/full/full,before,2,Pages free:                                   358366.
+formal/07-7.6.6/full/full,before,3,Pages active:                                 715513.
+formal/07-7.6.6/full/full,before,4,Pages inactive:                               718773.
+formal/07-7.6.6/full/full,before,5,Pages speculative:                              1066.
+formal/07-7.6.6/full/full,before,6,Pages throttled:                                   0.
+formal/07-7.6.6/full/full,before,7,Pages wired down:                             384242.
+formal/07-7.6.6/full/full,before,8,Pages purgeable:                               30439.
+formal/07-7.6.6/full/full,before,9,"""Translation faults"":                    15817110647."
+formal/07-7.6.6/full/full,before,10,Pages copy-on-write:                       961466606.
+formal/07-7.6.6/full/full,before,11,Pages zero filled:                       15466522377.
+formal/07-7.6.6/full/full,before,12,Pages reactivated:                        1226215991.
+formal/07-7.6.6/full/full,before,13,Pages purged:                              287359419.
+formal/07-7.6.6/full/full,before,14,File-backed pages:                            523461.
+formal/07-7.6.6/full/full,before,15,Anonymous pages:                              911891.
+formal/07-7.6.6/full/full,before,16,Pages stored in compressor:                  2951636.
+formal/07-7.6.6/full/full,before,17,Pages occupied by compressor:                1905705.
+formal/07-7.6.6/full/full,before,18,Decompressions:                            955770210.
+formal/07-7.6.6/full/full,before,19,Compressions:                             1102158859.
+formal/07-7.6.6/full/full,before,20,Pageins:                                   409399384.
+formal/07-7.6.6/full/full,before,21,Pageouts:                                      88629.
+formal/07-7.6.6/full/full,before,22,Swapins:                                     4121845.
+formal/07-7.6.6/full/full,before,23,Swapouts:                                    7979570.
+formal/07-7.6.6/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/07-7.6.6/full/full,after,2,Pages free:                                    16278.
+formal/07-7.6.6/full/full,after,3,Pages active:                                 878461.
+formal/07-7.6.6/full/full,after,4,Pages inactive:                               875916.
+formal/07-7.6.6/full/full,after,5,Pages speculative:                               799.
+formal/07-7.6.6/full/full,after,6,Pages throttled:                                   0.
+formal/07-7.6.6/full/full,after,7,Pages wired down:                             403480.
+formal/07-7.6.6/full/full,after,8,Pages purgeable:                                5827.
+formal/07-7.6.6/full/full,after,9,"""Translation faults"":                    15821480639."
+formal/07-7.6.6/full/full,after,10,Pages copy-on-write:                       961693967.
+formal/07-7.6.6/full/full,after,11,Pages zero filled:                       15471063353.
+formal/07-7.6.6/full/full,after,12,Pages reactivated:                        1227074544.
+formal/07-7.6.6/full/full,after,13,Pages purged:                              287571911.
+formal/07-7.6.6/full/full,after,14,File-backed pages:                            531785.
+formal/07-7.6.6/full/full,after,15,Anonymous pages:                             1223391.
+formal/07-7.6.6/full/full,after,16,Pages stored in compressor:                  2981217.
+formal/07-7.6.6/full/full,after,17,Pages occupied by compressor:                1908731.
+formal/07-7.6.6/full/full,after,18,Decompressions:                            956106829.
+formal/07-7.6.6/full/full,after,19,Compressions:                             1102563756.
+formal/07-7.6.6/full/full,after,20,Pageins:                                   409450886.
+formal/07-7.6.6/full/full,after,21,Pageouts:                                      88634.
+formal/07-7.6.6/full/full,after,22,Swapins:                                     4121897.
+formal/07-7.6.6/full/full,after,23,Swapouts:                                    7979570.
+formal/07-7.6.6/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/07-7.6.6/full/hot,before,2,Pages free:                                    16278.
+formal/07-7.6.6/full/hot,before,3,Pages active:                                 878461.
+formal/07-7.6.6/full/hot,before,4,Pages inactive:                               875916.
+formal/07-7.6.6/full/hot,before,5,Pages speculative:                               799.
+formal/07-7.6.6/full/hot,before,6,Pages throttled:                                   0.
+formal/07-7.6.6/full/hot,before,7,Pages wired down:                             403480.
+formal/07-7.6.6/full/hot,before,8,Pages purgeable:                                5827.
+formal/07-7.6.6/full/hot,before,9,"""Translation faults"":                    15821480639."
+formal/07-7.6.6/full/hot,before,10,Pages copy-on-write:                       961693967.
+formal/07-7.6.6/full/hot,before,11,Pages zero filled:                       15471063353.
+formal/07-7.6.6/full/hot,before,12,Pages reactivated:                        1227074544.
+formal/07-7.6.6/full/hot,before,13,Pages purged:                              287571911.
+formal/07-7.6.6/full/hot,before,14,File-backed pages:                            531785.
+formal/07-7.6.6/full/hot,before,15,Anonymous pages:                             1223391.
+formal/07-7.6.6/full/hot,before,16,Pages stored in compressor:                  2981217.
+formal/07-7.6.6/full/hot,before,17,Pages occupied by compressor:                1908731.
+formal/07-7.6.6/full/hot,before,18,Decompressions:                            956106829.
+formal/07-7.6.6/full/hot,before,19,Compressions:                             1102563756.
+formal/07-7.6.6/full/hot,before,20,Pageins:                                   409450886.
+formal/07-7.6.6/full/hot,before,21,Pageouts:                                      88634.
+formal/07-7.6.6/full/hot,before,22,Swapins:                                     4121897.
+formal/07-7.6.6/full/hot,before,23,Swapouts:                                    7979570.
+formal/07-7.6.6/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/07-7.6.6/full/hot,after,2,Pages free:                                     8949.
+formal/07-7.6.6/full/hot,after,3,Pages active:                                 884515.
+formal/07-7.6.6/full/hot,after,4,Pages inactive:                               879029.
+formal/07-7.6.6/full/hot,after,5,Pages speculative:                              3650.
+formal/07-7.6.6/full/hot,after,6,Pages throttled:                                   0.
+formal/07-7.6.6/full/hot,after,7,Pages wired down:                             380202.
+formal/07-7.6.6/full/hot,after,8,Pages purgeable:                                  10.
+formal/07-7.6.6/full/hot,after,9,"""Translation faults"":                    15823234474."
+formal/07-7.6.6/full/hot,after,10,Pages copy-on-write:                       961768273.
+formal/07-7.6.6/full/hot,after,11,Pages zero filled:                       15472552023.
+formal/07-7.6.6/full/hot,after,12,Pages reactivated:                        1227506873.
+formal/07-7.6.6/full/hot,after,13,Pages purged:                              287626775.
+formal/07-7.6.6/full/hot,after,14,File-backed pages:                            520854.
+formal/07-7.6.6/full/hot,after,15,Anonymous pages:                             1246340.
+formal/07-7.6.6/full/hot,after,16,Pages stored in compressor:                  3029238.
+formal/07-7.6.6/full/hot,after,17,Pages occupied by compressor:                1927319.
+formal/07-7.6.6/full/hot,after,18,Decompressions:                            956358915.
+formal/07-7.6.6/full/hot,after,19,Compressions:                             1102873166.
+formal/07-7.6.6/full/hot,after,20,Pageins:                                   409474013.
+formal/07-7.6.6/full/hot,after,21,Pageouts:                                      88634.
+formal/07-7.6.6/full/hot,after,22,Swapins:                                     4121913.
+formal/07-7.6.6/full/hot,after,23,Swapouts:                                    7979570.
+formal/08-7.5.1/full/full,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/08-7.5.1/full/full,before,2,Pages free:                                   303673.
+formal/08-7.5.1/full/full,before,3,Pages active:                                 753311.
+formal/08-7.5.1/full/full,before,4,Pages inactive:                               751606.
+formal/08-7.5.1/full/full,before,5,Pages speculative:                              6456.
+formal/08-7.5.1/full/full,before,6,Pages throttled:                                   0.
+formal/08-7.5.1/full/full,before,7,Pages wired down:                             380253.
+formal/08-7.5.1/full/full,before,8,Pages purgeable:                               36315.
+formal/08-7.5.1/full/full,before,9,"""Translation faults"":                    15823838756."
+formal/08-7.5.1/full/full,before,10,Pages copy-on-write:                       961790930.
+formal/08-7.5.1/full/full,before,11,Pages zero filled:                       15473113894.
+formal/08-7.5.1/full/full,before,12,Pages reactivated:                        1227559007.
+formal/08-7.5.1/full/full,before,13,Pages purged:                              287626935.
+formal/08-7.5.1/full/full,before,14,File-backed pages:                            539086.
+formal/08-7.5.1/full/full,before,15,Anonymous pages:                              972287.
+formal/08-7.5.1/full/full,before,16,Pages stored in compressor:                  2937400.
+formal/08-7.5.1/full/full,before,17,Pages occupied by compressor:                1888366.
+formal/08-7.5.1/full/full,before,18,Decompressions:                            956425707.
+formal/08-7.5.1/full/full,before,19,Compressions:                             1102901864.
+formal/08-7.5.1/full/full,before,20,Pageins:                                   409488849.
+formal/08-7.5.1/full/full,before,21,Pageouts:                                      88634.
+formal/08-7.5.1/full/full,before,22,Swapins:                                     4121949.
+formal/08-7.5.1/full/full,before,23,Swapouts:                                    7979570.
+formal/08-7.5.1/full/full,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/08-7.5.1/full/full,after,2,Pages free:                                     9637.
+formal/08-7.5.1/full/full,after,3,Pages active:                                 903109.
+formal/08-7.5.1/full/full,after,4,Pages inactive:                               900523.
+formal/08-7.5.1/full/full,after,5,Pages speculative:                              1802.
+formal/08-7.5.1/full/full,after,6,Pages throttled:                                   0.
+formal/08-7.5.1/full/full,after,7,Pages wired down:                             379759.
+formal/08-7.5.1/full/full,after,8,Pages purgeable:                                8307.
+formal/08-7.5.1/full/full,after,9,"""Translation faults"":                    15828869585."
+formal/08-7.5.1/full/full,after,10,Pages copy-on-write:                       962062942.
+formal/08-7.5.1/full/full,after,11,Pages zero filled:                       15477440809.
+formal/08-7.5.1/full/full,after,12,Pages reactivated:                        1228538491.
+formal/08-7.5.1/full/full,after,13,Pages purged:                              287863793.
+formal/08-7.5.1/full/full,after,14,File-backed pages:                            508026.
+formal/08-7.5.1/full/full,after,15,Anonymous pages:                             1297408.
+formal/08-7.5.1/full/full,after,16,Pages stored in compressor:                  2926044.
+formal/08-7.5.1/full/full,after,17,Pages occupied by compressor:                1888835.
+formal/08-7.5.1/full/full,after,18,Decompressions:                            956766456.
+formal/08-7.5.1/full/full,after,19,Compressions:                             1103263811.
+formal/08-7.5.1/full/full,after,20,Pageins:                                   409587745.
+formal/08-7.5.1/full/full,after,21,Pageouts:                                      88637.
+formal/08-7.5.1/full/full,after,22,Swapins:                                     4122009.
+formal/08-7.5.1/full/full,after,23,Swapouts:                                    7979570.
+formal/08-7.5.1/full/hot,before,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/08-7.5.1/full/hot,before,2,Pages free:                                     9637.
+formal/08-7.5.1/full/hot,before,3,Pages active:                                 903109.
+formal/08-7.5.1/full/hot,before,4,Pages inactive:                               900523.
+formal/08-7.5.1/full/hot,before,5,Pages speculative:                              1802.
+formal/08-7.5.1/full/hot,before,6,Pages throttled:                                   0.
+formal/08-7.5.1/full/hot,before,7,Pages wired down:                             379759.
+formal/08-7.5.1/full/hot,before,8,Pages purgeable:                                8307.
+formal/08-7.5.1/full/hot,before,9,"""Translation faults"":                    15828869585."
+formal/08-7.5.1/full/hot,before,10,Pages copy-on-write:                       962062942.
+formal/08-7.5.1/full/hot,before,11,Pages zero filled:                       15477440809.
+formal/08-7.5.1/full/hot,before,12,Pages reactivated:                        1228538491.
+formal/08-7.5.1/full/hot,before,13,Pages purged:                              287863793.
+formal/08-7.5.1/full/hot,before,14,File-backed pages:                            508026.
+formal/08-7.5.1/full/hot,before,15,Anonymous pages:                             1297408.
+formal/08-7.5.1/full/hot,before,16,Pages stored in compressor:                  2926044.
+formal/08-7.5.1/full/hot,before,17,Pages occupied by compressor:                1888835.
+formal/08-7.5.1/full/hot,before,18,Decompressions:                            956766456.
+formal/08-7.5.1/full/hot,before,19,Compressions:                             1103263811.
+formal/08-7.5.1/full/hot,before,20,Pageins:                                   409587745.
+formal/08-7.5.1/full/hot,before,21,Pageouts:                                      88637.
+formal/08-7.5.1/full/hot,before,22,Swapins:                                     4122009.
+formal/08-7.5.1/full/hot,before,23,Swapouts:                                    7979570.
+formal/08-7.5.1/full/hot,after,1,Mach Virtual Memory Statistics: (page size of 16384 bytes)
+formal/08-7.5.1/full/hot,after,2,Pages free:                                     9820.
+formal/08-7.5.1/full/hot,after,3,Pages active:                                 879306.
+formal/08-7.5.1/full/hot,after,4,Pages inactive:                               877031.
+formal/08-7.5.1/full/hot,after,5,Pages speculative:                              2250.
+formal/08-7.5.1/full/hot,after,6,Pages throttled:                                   0.
+formal/08-7.5.1/full/hot,after,7,Pages wired down:                             391348.
+formal/08-7.5.1/full/hot,after,8,Pages purgeable:                                3486.
+formal/08-7.5.1/full/hot,after,9,"""Translation faults"":                    15830259818."
+formal/08-7.5.1/full/hot,after,10,Pages copy-on-write:                       962155067.
+formal/08-7.5.1/full/hot,after,11,Pages zero filled:                       15478439154.
+formal/08-7.5.1/full/hot,after,12,Pages reactivated:                        1228632539.
+formal/08-7.5.1/full/hot,after,13,Pages purged:                              287932969.
+formal/08-7.5.1/full/hot,after,14,File-backed pages:                            500174.
+formal/08-7.5.1/full/hot,after,15,Anonymous pages:                             1258413.
+formal/08-7.5.1/full/hot,after,16,Pages stored in compressor:                  3012499.
+formal/08-7.5.1/full/hot,after,17,Pages occupied by compressor:                1923910.
+formal/08-7.5.1/full/hot,after,18,Decompressions:                            956880311.
+formal/08-7.5.1/full/hot,after,19,Compressions:                             1103463495.
+formal/08-7.5.1/full/hot,after,20,Pageins:                                   409601486.
+formal/08-7.5.1/full/hot,after,21,Pageouts:                                      88666.
+formal/08-7.5.1/full/hot,after,22,Swapins:                                     4122017.
+formal/08-7.5.1/full/hot,after,23,Swapouts:                                    7979570.

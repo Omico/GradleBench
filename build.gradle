@@ -1,0 +1,44 @@
+import groovy.json.JsonOutput
+import org.gradle.api.artifacts.result.UnresolvedDependencyResult
+plugins { id 'com.android.library' version '7.4.2' apply false }
+def configured = new LinkedHashSet<String>()
+subprojects {
+    apply plugin: 'com.android.library'
+    android {
+        namespace "org.gradlescope.${project.name}"
+        compileSdk 33
+        buildToolsVersion '30.0.3'
+        defaultConfig { minSdk 21; targetSdk 33 }
+        compileOptions { sourceCompatibility JavaVersion.VERSION_11; targetCompatibility JavaVersion.VERSION_11 }
+    }
+    afterEvaluate { configured.add(path) }
+}
+gradle.projectsEvaluated {
+    assert subprojects.size() == 1000
+    assert configured.size() == 1000
+    assert subprojects.every { it.plugins.hasPlugin('com.android.library') }
+    def edges = subprojects.sum { p -> p.configurations.implementation.dependencies.withType(ProjectDependency).size() }
+    assert edges == 900
+    println "GRADLESCOPE_CONFIGURED modules=${configured.size()} directEdges=${edges}"
+}
+tasks.register('resolveAllDebug') {
+    doLast {
+        def rows = []
+        subprojects.sort { it.path }.each { p ->
+            ['debugCompileClasspath', 'debugRuntimeClasspath'].each { name ->
+                def result = p.configurations.getByName(name).incoming.resolutionResult
+                def dependencies = result.allDependencies
+                def unresolved = dependencies.findAll { it instanceof UnresolvedDependencyResult }
+                if (!unresolved.empty) throw new GradleException("Unresolved dependencies: ${unresolved}")
+                rows.add([module:p.path, configuration:name, components:result.allComponents.size(), edges:dependencies.size()])
+            }
+        }
+        assert rows.size() == 2000
+        assert rows.sum { it.edges } == 1800
+        assert rows.sum { it.components } == 3800
+        def report = [modules:1000, configurations:rows.size(), components:rows.sum { it.components }, edges:rows.sum { it.edges }, componentSemantics:'sum per configuration, includes each root; not globally unique', rows:rows]
+        def out = file(System.getProperty('gradlescope.resolution', "${buildDir}/resolution.json"))
+        out.parentFile.mkdirs(); out.text = JsonOutput.prettyPrint(JsonOutput.toJson(report))
+        println "GRADLESCOPE_RESOLVED modules=1000 configurations=${rows.size()} components=${report.components} edges=${report.edges}"
+    }
+}

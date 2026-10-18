@@ -1,0 +1,9 @@
+.state/
+.gradle/
+**/build/
+local.properties
+__pycache__/
+/results/
+/.benchmark.lock
+/module-layout-migration.json
+.DS_Store

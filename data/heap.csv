@@ -1,0 +1,73 @@
+measurement_id,pid,command,exit_code,error,heap_used_mib,heap_committed_mib,metaspace_used_mib,metaspace_committed_mib,output
+formal/01-7.5.1/full/hot,18433,GC.heap_info,0,,4554.576171875,6144.0,113.3974609375,124.25,"18433:
+ garbage-first heap   total 6291456K, used 4663886K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 358 young (1466368K), 32 survivors (131072K)
+ Metaspace       used 116119K, committed 127232K, reserved 1310720K
+  class space    used 15164K, committed 17984K, reserved 1048576K
+"
+formal/01-7.5.1/full/hot,18433,VM.flags,0,,,,,,"18433:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/02-7.6.6/full/hot,22408,GC.heap_info,0,,4077.9365234375,6144.0,114.9091796875,126.1875,"22408:
+ garbage-first heap   total 6291456K, used 4175807K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 241 young (987136K), 47 survivors (192512K)
+ Metaspace       used 117667K, committed 129216K, reserved 1310720K
+  class space    used 15367K, committed 18240K, reserved 1048576K
+"
+formal/02-7.6.6/full/hot,22408,VM.flags,0,,,,,,"22408:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/03-7.6.6/full/hot,25128,GC.heap_info,0,,3313.921875,6144.0,115.2958984375,125.875,"25128:
+ garbage-first heap   total 6291456K, used 3393456K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 46 young (188416K), 8 survivors (32768K)
+ Metaspace       used 118063K, committed 128896K, reserved 1310720K
+  class space    used 15975K, committed 18048K, reserved 1048576K
+"
+formal/03-7.6.6/full/hot,25128,VM.flags,0,,,,,,"25128:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/04-7.5.1/full/hot,29967,GC.heap_info,0,,3347.541015625,6144.0,113.3662109375,124.5,"29967:
+ garbage-first heap   total 6291456K, used 3427882K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 45 young (184320K), 35 survivors (143360K)
+ Metaspace       used 116087K, committed 127488K, reserved 1310720K
+  class space    used 15173K, committed 17984K, reserved 1048576K
+"
+formal/04-7.5.1/full/hot,29967,VM.flags,0,,,,,,"29967:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/05-7.5.1/full/hot,34645,GC.heap_info,0,,3301.0849609375,6144.0,113.26953125,124.1875,"34645:
+ garbage-first heap   total 6291456K, used 3380311K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 44 young (180224K), 35 survivors (143360K)
+ Metaspace       used 115988K, committed 127168K, reserved 1310720K
+  class space    used 15153K, committed 17984K, reserved 1048576K
+"
+formal/05-7.5.1/full/hot,34645,VM.flags,0,,,,,,"34645:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/06-7.6.6/full/hot,39961,GC.heap_info,0,,4446.8740234375,6144.0,114.837890625,126.5,"39961:
+ garbage-first heap   total 6291456K, used 4553599K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 356 young (1458176K), 46 survivors (188416K)
+ Metaspace       used 117594K, committed 129536K, reserved 1310720K
+  class space    used 15363K, committed 18240K, reserved 1048576K
+"
+formal/06-7.6.6/full/hot,39961,VM.flags,0,,,,,,"39961:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/07-7.6.6/full/hot,45900,GC.heap_info,0,,3494.6142578125,6144.0,114.734375,125.6875,"45900:
+ garbage-first heap   total 6291456K, used 3578485K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 70 young (286720K), 45 survivors (184320K)
+ Metaspace       used 117488K, committed 128704K, reserved 1310720K
+  class space    used 15354K, committed 18112K, reserved 1048576K
+"
+formal/07-7.6.6/full/hot,45900,VM.flags,0,,,,,,"45900:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"
+formal/08-7.5.1/full/hot,49441,GC.heap_info,0,,3490.671875,6144.0,113.3662109375,124.5,"49441:
+ garbage-first heap   total 6291456K, used 3574448K [0x0000007000800000, 0x0000007180800000)
+  region size 4096K, 78 young (319488K), 44 survivors (180224K)
+ Metaspace       used 116087K, committed 127488K, reserved 1310720K
+  class space    used 15165K, committed 18048K, reserved 1048576K
+"
+formal/08-7.5.1/full/hot,49441,VM.flags,0,,,,,,"49441:
+-XX:CICompilerCount=4 -XX:ConcGCThreads=3 -XX:G1ConcRefinementThreads=11 -XX:G1EagerReclaimRemSetThreshold=32 -XX:G1HeapRegionSize=4194304 -XX:GCDrainStackTargetSize=64 -XX:InitialHeapSize=536870912 -XX:MarkStackSize=4194304 -XX:MaxHeapSize=6442450944 -XX:MaxNewSize=3862953984 -XX:MinHeapDeltaBytes=4194304 -XX:MinHeapSize=536870912 -XX:NonNMethodCodeHeapSize=5839564 -XX:NonProfiledCodeHeapSize=122909338 -XX:ProfiledCodeHeapSize=122909338 -XX:ReservedCodeCacheSize=251658240 -XX:+SegmentedCodeCache -XX:SoftMaxHeapSize=6442450944 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseNUMA -XX:-UseNUMAInterleaving 
+"

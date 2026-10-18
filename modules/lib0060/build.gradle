@@ -1,0 +1,11 @@
+dependencies {
+    implementation project(':lib0061')
+    implementation project(':lib0062')
+    implementation project(':lib0063')
+    implementation project(':lib0064')
+    implementation project(':lib0065')
+    implementation project(':lib0066')
+    implementation project(':lib0067')
+    implementation project(':lib0068')
+    implementation project(':lib0069')
+}

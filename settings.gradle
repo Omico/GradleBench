@@ -1,0 +1,8 @@
+pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
+rootProject.name = 'GradleBench'
+(0..<1000).each {
+    def name = String.format('lib%04d', it)
+    include(":${name}")
+    project(":${name}").projectDir = file("modules/${name}")
+}

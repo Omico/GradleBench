@@ -1,0 +1,87 @@
+property,value
+time,2026-10-18T10:21:31.038649+08:00
+platform,macOS-27.0.1-arm64-arm-64bit-Mach-O
+machine,arm64
+jdk,${JDK17}
+sdk,${ANDROID_SDK}
+heap,6g
+workers,4
+interval,0.15
+resident_seconds,3.0
+timeout_seconds,1800
+container_limit,macOS native host; Linux cgroup not applicable
+selection_reason,"64 GiB host, existing pressure/compression: fixed 6 GiB heap, 4 workers to leave headroom; no tuning by version"
+probe:${JDK17}/bin/java -version,"openjdk version ""17.0.20.1"" 2026-08-18 LTS
+OpenJDK Runtime Environment Zulu17.68+203-CA (build 17.0.20.1+1-LTS)
+OpenJDK 64-Bit Server VM Zulu17.68+203-CA (build 17.0.20.1+1-LTS, mixed mode, sharing)
+"
+probe:df -h ${PROJECT},"Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   7.3Ti   3.4Ti   3.9Ti    47%     27M   42G    0%   /System/Volumes/Data
+"
+probe:sysctl -n hw.ncpu,"14
+"
+probe:sysctl -n hw.memsize,"68719476736
+"
+probe:vm_stat,"Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                    43151.
+Pages active:                                 920031.
+Pages inactive:                               923936.
+Pages speculative:                               519.
+Pages throttled:                                   0.
+Pages wired down:                             406006.
+Pages purgeable:                                 766.
+""Translation faults"":                    15731601542.
+Pages copy-on-write:                       957523186.
+Pages zero filled:                       15401326708.
+Pages reactivated:                        1206765183.
+Pages purged:                              284132323.
+File-backed pages:                            536944.
+Anonymous pages:                             1307542.
+Pages stored in compressor:                  2765829.
+Pages occupied by compressor:                1790022.
+Decompressions:                            943340468.
+Compressions:                             1087868383.
+Pageins:                                   408059972.
+Pageouts:                                      88573.
+Swapins:                                     4115802.
+Swapouts:                                    7958722.
+"
+probe:memory_pressure,"The system has 68719476736 (4194304 pages with a page size of 16384).
+
+Stats: 
+Pages free: 43150 
+Pages purgeable: 766 
+Pages purged: 284132323 
+
+Swap I/O:
+Swapins: 4115802 
+Swapouts: 7958722 
+
+Page Q counts:
+Pages active: 920031 
+Pages inactive: 923936 
+Pages speculative: 520 
+Pages throttled: 0 
+Pages wired down: 406006 
+
+Compressor Stats:
+Pages used by compressor: 1790022 
+Pages decompressed: 943340468 
+Pages compressed: 1087868383 
+
+File I/O:
+Pageins: 408059974 
+Pageouts: 88573 
+
+System-wide memory free percentage: 46%
+"
+probe:sysctl vm.swapusage,"vm.swapusage: total = 11264.00M  used = 9983.62M  free = 1280.38M  (encrypted)
+"
+sha256:${JDK17}/release,30a4e0e84d3b841d9cf78d560f478c3c57404ed6d32a663cf53f13d94d0a997b
+sha256:${JDK17}/bin/java,0658815d1262a64e123569d62f2def434b38f64c9d8fb826e526020c9db6c79f
+sha256:${JDK17}/bin/javac,f908728b49311c2a40191d66a2ccfd33db58e8f9bcc1e8137ff676ca0838bf66
+sha256:${JDK17}/lib/modules,26ce9979be1a2741d654879b33037bf9a2abea40be5b764bfaff3f821c72de27
+sha256:${ANDROID_SDK}/platforms/android-33/android.jar,fd628aa21321859a9035c6aae4b084b7d3fdb3f230be5cd5ec76541e32f7c963
+sha256:${ANDROID_SDK}/platforms/android-33/source.properties,3a6ba9d7b7f761fa0ddb74336391260fb0d6b3293c11002cba04c4872696c1a0
+sha256:${ANDROID_SDK}/build-tools/30.0.3/aapt2,eb8e6ca74a101f03d3c1f4fb5ae0d56587e955e780f1aa513b2fcb1e8254ea59
+sha256:${ANDROID_SDK}/build-tools/30.0.3/source.properties,615acc6b54a12b078860cd6c0f3d40da05c05b93824ee6ea808c7f5ec2638b52

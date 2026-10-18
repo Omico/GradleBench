@@ -1,0 +1,2 @@
+package org.gradlescope.lib0710;
+public final class Value { public static int value() { return org.gradlescope.lib0711.Value.value() + org.gradlescope.lib0712.Value.value() + org.gradlescope.lib0713.Value.value() + org.gradlescope.lib0714.Value.value() + org.gradlescope.lib0715.Value.value() + org.gradlescope.lib0716.Value.value() + org.gradlescope.lib0717.Value.value() + org.gradlescope.lib0718.Value.value() + org.gradlescope.lib0719.Value.value(); } }
